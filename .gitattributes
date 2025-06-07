@@ -1,1 +1,2 @@
-*.scss linguist-language=Sass
+*.html linguist-detectable=false
+
